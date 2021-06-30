@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Tinder Clone Using MERN Tech Stack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
